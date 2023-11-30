@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "TeachingTipRepro.Windows (Unpackaged)": {
+      "commandName": "Project"
+    },
+    "TeachingTipRepro.Windows (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
